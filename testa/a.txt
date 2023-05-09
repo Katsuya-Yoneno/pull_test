@@ -1,1 +1,3 @@
 amark
+a = mark
+b = abe
